@@ -1,0 +1,8 @@
+{
+  "muscle": "triceps",
+  "exercises": [
+    { "name": "Triceps Pushdown", "equipment": "Cable" },
+    { "name": "Close Grip Bench Press", "equipment": "Barbell" },
+    { "name": "Dips", "equipment": "Bodyweight" }
+  ]
+}
