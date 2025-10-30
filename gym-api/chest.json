@@ -1,0 +1,8 @@
+{
+  "muscle": "chest",
+  "exercises": [
+    { "name": "Bench Press", "equipment": "Barbell" },
+    { "name": "Push-ups", "equipment": "Bodyweight" },
+    { "name": "Cable Crossover", "equipment": "Cable" }
+  ]
+}
