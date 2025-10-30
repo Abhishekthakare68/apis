@@ -1,0 +1,8 @@
+{
+  "muscle": "biceps",
+  "exercises": [
+    { "name": "Barbell Curl", "equipment": "Barbell" },
+    { "name": "Hammer Curl", "equipment": "Dumbbell" },
+    { "name": "Chin Up", "equipment": "Bodyweight" }
+  ]
+}
